@@ -11,7 +11,7 @@
 </div>
 
 
-<div alingn="center">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" width="50" alt="swift logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="50" alt="c logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="50" alt="java logo"  />
@@ -46,3 +46,6 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/rumeysaavc/count.svg?"  />
 </div>
+<br clear="both">
+
+![Snake animation](https://github.com/rumeysaavc/rumeysaavc/blob/output/github-contribution-grid-snake.svg)
