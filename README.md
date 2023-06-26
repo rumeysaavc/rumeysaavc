@@ -32,11 +32,9 @@
 </div>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/rumeysaavc/count.svg?"  />
+  <img src="https://streak-stats.demolab.com?user=rumeysaavc&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rumeysaavc&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://profile-counter.glitch.me/rumeysaavc/count.svg?"  />
 </div>
-</div>  
-###
