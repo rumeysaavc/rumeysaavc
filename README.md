@@ -7,6 +7,11 @@
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=rumeysaavc&show_icons=true&theme=radical)
 
 <div>
+  <img src="https://streak-stats.demolab.com?user=rumeysaavc&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
+
+
+<div alingn="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" width="50" alt="swift logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="50" alt="c logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="50" alt="java logo"  />
@@ -16,13 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="50" alt="react logo"  />
 </div>
 
-###
-
-<div>
-  <img src="https://streak-stats.demolab.com?user=rumeysaavc&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-<div>
+<div align="center">
   <a href="mailto:rumeysaaavcu@icloud.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=d33c2d&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
