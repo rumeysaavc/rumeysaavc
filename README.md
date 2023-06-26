@@ -2,17 +2,16 @@
 
 - 🔭 I’m currently working on İOS (SWİFT)
 - 🌱 I’m currently learning Frontend(HTML,CSS,JAVASCRİPT & REACT)
-- 👯 I’m looking to collaborate on ...
+- 😄 Pronouns: SHE/HE
+  < 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: SHE/HE
-- ⚡ Fun fact: ...
-
+- 📫 How to reach me: ...>
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/avc.rumeysaa)
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@rumeysaavc) 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=rumeysaavc&show_icons=true&theme=radical)
 
-<div align="center">
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="42" alt="c logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
@@ -22,7 +21,7 @@
 
 ###
 
-<div align="center">
+<div>
   <a href="mailto:rumeysaaavcu@icloud.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -31,7 +30,7 @@
   </a>
 </div>
 
-<div align="center">
+<div>
   <img src="https://streak-stats.demolab.com?user=rumeysaavc&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
