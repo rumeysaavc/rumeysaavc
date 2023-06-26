@@ -24,7 +24,7 @@
 
 <div>
   <a href="mailto:rumeysaaavcu@icloud.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=417add&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=dfa817&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   
   <a href="https://linkedin.com/in/rumeysaavc" target="_blank">
