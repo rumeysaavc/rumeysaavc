@@ -40,7 +40,7 @@
 
 </div>
 
-<img src="https://github.com/rumeysaavc/rumeysaavc/blob/master/github-user-contribution%20(1).svg" alt="Snake animation" style="max-width: 100%;">
+<img src="https://github.com/rumeysaavc/rumeysaavc/blob/main/github-user-contribution%20(1).svg" alt="Snake animation" style="max-width: 100%;">
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/rumeysaavc/count.svg?"  />
