@@ -4,10 +4,6 @@
 - 🌱 I’m currently learning Frontend(HTML,CSS,JAVASCRİPT & REACT)
 - 😄 Pronouns: SHE/HE
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/avc.rumeysaa)
-[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@rumeysaavc) 
-
-
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=rumeysaavc&show_icons=true&theme=radical)
 
 <div>
@@ -28,15 +24,19 @@
   </a>
 
   <a href="https://twitter.com/avc_rumeysaa)" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=dfa817&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1b9bf0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 
   <a href="https://www.instagram.com/avc.rumeysaa" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=dfa817&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=e41775&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   
   <a href="https://linkedin.com/in/rumeysaavc" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35"<< alt="linkedin logo"  />
+  </a>
+
+  <a href="https://medium.com/@rumeysaavc" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=292929&logoColor=white&labelColor=&style=for-the-badge" height="35"<< alt="medium logo"  />
   </a>
 </div>
 
