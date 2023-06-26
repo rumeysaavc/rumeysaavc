@@ -46,6 +46,12 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/rumeysaavc/count.svg?"  />
 </div>
+
+
+###
+
 <br clear="both">
 
 ![Snake animation](https://github.com/rumeysaavc/rumeysaavc/blob/output/github-contribution-grid-snake.svg)
+
+###
