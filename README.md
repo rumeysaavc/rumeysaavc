@@ -40,7 +40,6 @@
 
 </div>
 
-<img src="https://github.com/rumeysaavc/rumeysaavc/main/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/rumeysaavc/count.svg?"  />
