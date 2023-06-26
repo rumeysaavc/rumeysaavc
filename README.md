@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on İOS (SWİFT)
 - 🌱 I’m currently learning Frontend(HTML,CSS,JAVASCRİPT & REACT)
 - 👯 I’m looking to collaborate on ...
