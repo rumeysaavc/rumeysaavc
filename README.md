@@ -16,9 +16,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="50" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="50" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="50" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="42" alt="javascript logo"  />
-  <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fa%2Fa7%2FReact-icon.svg%2F1200px-React-icon.svg.png&tbnid=HD3eXsrstv-_cM&vet=12ahUKEwjJgJC6peH_AhXi_bsIHRLECAYQMygAegUIARDdAQ..i&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FReact_(software)&docid=Fiz1iGC5gm0AcM&w=1200&h=1043&itg=1&q=react&ved=2ahUKEwjJgJC6peH_AhXi_bsIHRLECAYQMygAegUIARDdAQ
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="50" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="50" alt="react logo"  />
 </div>
 
 ###
