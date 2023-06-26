@@ -19,6 +19,10 @@
 ###
 
 <div>
+  <img src="https://streak-stats.demolab.com?user=rumeysaavc&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
+
+<div>
   <a href="mailto:rumeysaaavcu@icloud.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=d33c2d&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -39,14 +43,6 @@
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=292929&logoColor=white&labelColor=&style=for-the-badge" height="35"<< alt="medium logo"  />
   </a>
 </div>
-
-
-
-<div>
-  <img src="https://streak-stats.demolab.com?user=rumeysaavc&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/rumeysaavc/count.svg?"  />
