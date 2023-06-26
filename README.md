@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I am Rumeysa, trying to improve myself in the field of software. If you want to reach me, I have included my contact information below.👋
 
 - 🔭 I’m currently working on İOS (SWİFT)
 - 🌱 I’m currently learning Frontend(HTML,CSS,JAVASCRİPT & REACT)
@@ -38,9 +38,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35"<< alt="linkedin logo"  />
   </a>
 
-  <a href="https://medium.com/@rumeysaavc" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=292929&logoColor=white&labelColor=&style=for-the-badge" height="35"<< alt="medium logo"  />
-  </a>
 </div>
 
 <img src="https://github.com/rumeysaavc/rumeysaavc/blob/master/github-user-contribution%20(1).svg" alt="Snake animation" style="max-width: 100%;">
