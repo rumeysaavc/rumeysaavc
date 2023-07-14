@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on İOS (SWİFT)
 - 🌱 I’m currently learning Frontend(HTML,CSS,JAVASCRİPT & REACT)
-- 😄 Pronouns: SHE/HE
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=rumeysaavc&show_icons=true&theme=radical)
 
