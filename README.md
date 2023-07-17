@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on İOS (SWİFT)
 - 🌱 I’m currently learning Frontend(HTML,CSS,JAVASCRİPT & REACT)
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=rumeysaavc&show_icons=true&theme=radical)
+
 
 <div>
   <img src="https://streak-stats.demolab.com?user=rumeysaavc&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
