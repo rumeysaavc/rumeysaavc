@@ -13,7 +13,7 @@
 
 </div>
 
-
+<hr>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" width="50" alt="swift logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="50" alt="c logo"  />
