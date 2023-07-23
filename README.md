@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Frontend(HTML,CSS,JAVASCRİPT & REACT)
 
 
-
+<hr1>
 <div>
   <img src="https://streak-stats.demolab.com?user=rumeysaavc&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 <hr>
