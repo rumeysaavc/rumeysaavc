@@ -1,7 +1,6 @@
 ### Hi, I am Rumeysa, trying to improve myself in the field of software. If you want to reach me, I have included my contact information below.👋
 
 - 🔭 I’m currently working on İOS (SWİFT)
-- 🌱 I’m currently learning Frontend(HTML,CSS,JAVASCRİPT & REACT)
 
 
 
