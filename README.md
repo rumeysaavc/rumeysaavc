@@ -33,8 +33,8 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=d33c2d&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 
-  <a href="https://twitter.com/avc_rumeysaa)" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1b9bf0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  <a href="https://www.hackerrank.com/rumeysa_avcu20?hr_r=1)" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Hackerrank&logo=hackerrank&label=&color=1b9bf0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
 
   <a href="https://www.instagram.com/avc.rumeysaa" target="_blank">
