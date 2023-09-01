@@ -34,10 +34,10 @@
   </a>
 
   <a href="https://www.hackerrank.com/rumeysa_avcu20?hr_r=1)" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Hackerrank&logo=hackerrank&label=&color=1b9bf0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
+    <img src="https://img.shields.io/static/v1?message=Hackerrank&logo=hackerrank&label=&color=1ba94c&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
 
-  <a href="https://www.instagram.com/avc.rumeysaa" target="_blank">
+  <a href="https://www.instagram.com/softwaredev.lady" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=e41775&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   
