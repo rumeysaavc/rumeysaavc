@@ -38,11 +38,11 @@
   </a>
 
   <a href="https://www.instagram.com/softwaredev.lady" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=e41775&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=608150&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   
   <a href="https://linkedin.com/in/rumeysaavc" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35"<< alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=608150&logoColor=white&labelColor=&style=for-the-badge" height="35"<< alt="linkedin logo"  />
   </a>
 
 </div>
