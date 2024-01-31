@@ -33,7 +33,7 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=d33c2d&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 
-  <a href="https://www.hackerrank.com/rumeysa_avcu20?hr_r=1)" target="_blank">
+  <a href="https://www.hackerrank.com/rumeysa_avc" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Hackerrank&logo=hackerrank&label=&color=1ba94c&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
 
